@@ -2,16 +2,23 @@ html {
   box-sizing: border-box;
   padding: 1em;
   outline-offset: 2px;
+  color: #fff;
   background-color: #79756f;
 }
 
-.introduction {
-  display: inline-block;
-  font-family: 'Bevan', sans-serif;
-  font-size: 1.5rem;
-  background-color: #713837;
-  text-align: center;
+.header {
+  color: #fff;
   margin: 0;
   padding: 0;
+  text-align: center;
+}
+
+.introduction a {
+  display: block;
+  padding: .6em .5em .75em;
+  background-color: #713837;
+  color: #fff;
+  font-family: sans-serif;
+  font-size: 1.5rem;
   text-align: center;
 }
