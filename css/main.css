@@ -5,16 +5,13 @@ html {
   background-color: #79756f;
 }
 
-.header {
-  margin: 0;
-  padding: 0;
-  text-align: center;
-}
-
 .introduction {
   display: inline-block;
   font-family: 'Bevan', sans-serif;
   font-size: 1.5rem;
   background-color: #713837;
+  text-align: center;
+  margin: 0;
+  padding: 0;
   text-align: center;
 }
