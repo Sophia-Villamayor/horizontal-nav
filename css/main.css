@@ -3,5 +3,10 @@ html {
   padding: 1em;
   outline-offset: 2px;
   background-color: #79756f;
+}
 
+.introduction {
+  font-family: 'Bevan', sans-serif;
+  font-size: 1.5rem;
+  list-style-type: none;
 }
