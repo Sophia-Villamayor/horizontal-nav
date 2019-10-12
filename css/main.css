@@ -2,6 +2,7 @@ html {
   box-sizing: border-box;
   display: inline-block;
   background-color: #dbd6cf;
+  font-family: Bevan, sans-serif;
   line-height: 1.5;
 }
 
@@ -11,12 +12,12 @@ html {
 
 body {
   background-color: #dbd6cf;
-  margin: .0em;
+  margin: .0rem;
 }
 
 h1 {
   color: #fff;
-  font-family: Bevan, sans-serif;
+  font-style: normal:
 }
 
 .header {
