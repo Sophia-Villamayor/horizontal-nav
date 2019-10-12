@@ -9,7 +9,9 @@ html {
 
 .header {
   margin: 0;
-  padding: 1em; background-color: #595652;
+  border-style: solid;
+  border-color: #595652;
+  padding: 1em; background-color: #79756f;
   outline-offset: 2px;
   list-style-type: none;
   text-align: center;
@@ -28,5 +30,5 @@ html {
 
 .introduction a:hover {
   background-color: #f33;
-  color: #713837;
+  color: #fff;
 }
