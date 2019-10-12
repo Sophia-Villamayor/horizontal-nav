@@ -2,6 +2,7 @@ html {
   box-sizing: border-box;
   display: inline-block;
   background-color: #dbd6cf;
+  font-family: Georgia, sans-serif;
   line-height: 1.5;
 }
 
