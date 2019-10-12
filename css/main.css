@@ -12,12 +12,12 @@ html {
 
 body {
   background-color: #dbd6cf;
-  margin: .0rem;
+  margin-left: : .0em;
 }
 
 h1 {
   color: #fff;
-  font-style: normal;
+  font-family: inherit;
 }
 
 .header {
