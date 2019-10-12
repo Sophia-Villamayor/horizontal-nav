@@ -2,17 +2,18 @@ html {
   box-sizing: border-box;
   display: inline-block;
   background-color: #dbd6cf;
-  font-family: Bevan, sans-serif;
+  font-family: sans-serif;
   line-height: 1.5;
 }
 
 body {
   background-color: #dbd6cf;
+  margin: .3em;
 }
 
 h1 {
   color: #fff;
-  font-family: "Bevan", sans-serif;
+  font-family: Bevan, sans-serif;
 }
 
 .header {
