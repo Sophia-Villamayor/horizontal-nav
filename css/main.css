@@ -3,6 +3,8 @@ html {
   display: inline-block;
   background-color: #dbd6cf;
   line-height: 1.5;
+  list-style-type: none;
+  text-decoration: none;
 }
 
 *, *::before, *::after {
@@ -10,6 +12,8 @@ html {
 }
 
 body {
+  list-style-type: none;
+  text-decoration: none;
   background-color: #dbd6cf;
   margin: 0;
   text-align: center;
@@ -20,11 +24,13 @@ h1 {
   font-family: Bevan, sans-serif;
 }
 
-.introduction nav {
+.header nav {
   display: inline-block;
+  list-style-type: none;
+  text-decoration: none;
 }
 
-.introduction {
+.header {
   margin: .3em;
   border-style: solid;
   border-color: #595652;
@@ -32,12 +38,18 @@ h1 {
   background-color: #79756f;
   outline-offset: 2px;
   list-style-type: none;
+  text-decoration: none;
   text-align: center;
 }
 
-.introduction a {
+.header li {
   display: inline-block;
-  list-style: none;
+}
+
+.header a {
+  margin-bottom: .3em;
+  display: inline-block;
+  list-style-type: none;
   max-width: 20em;
   padding: .6em .5em .75em;
   border-radius: 10px;
@@ -46,9 +58,12 @@ h1 {
   font-family: sans-serif;
   font-size: 1.5rem;
   text-align: center;
+  text-decoration: none;
 }
 
-.introduction a:hover {
+.header a:hover {
+  list-style-type: none;
+  text-decoration: none;
   background-color: #f33;
   color: #fff;
 }
