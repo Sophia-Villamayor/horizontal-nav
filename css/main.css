@@ -20,11 +20,11 @@ h1 {
   font-family: Bevan, sans-serif;
 }
 
-.header nav {
+.introduction nav {
   display: inline-block;
 }
 
-.header {
+.introduction {
   margin: .3em;
   border-style: solid;
   border-color: #595652;
