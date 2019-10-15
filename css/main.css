@@ -60,6 +60,7 @@ h1 {
 }
 
 .header a:hover {
+  padding: .6em .75em;
   background-color: #f33;
   color: #fff;
 }
