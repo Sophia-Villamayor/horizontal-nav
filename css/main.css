@@ -7,8 +7,6 @@ html {
   text-decoration: none;
 }
 
-*, *::before, *::after {
-  box-sizing: inherit;
 }
 
 body {
