@@ -21,7 +21,7 @@ body {
 
 h1 {
   color: #fff;
-  font-family: Bevan, sans-serif;
+  font-family: 'Bevan', sans-serif;
 }
 
 .header nav {
@@ -60,8 +60,6 @@ h1 {
 }
 
 .header a:hover {
-  list-style-type: none;
-  text-decoration: none;
   background-color: #f33;
   color: #fff;
 }
